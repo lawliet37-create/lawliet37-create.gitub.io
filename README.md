@@ -12,3 +12,4 @@
 none
 ## food chain
 Here require a link to [penguin324](https://www.google.com)
+![beans](/assets/images/beans.jpg)
